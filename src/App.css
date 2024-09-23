@@ -1,0 +1,25 @@
+img{
+    height: 300px;
+}
+.link{
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+
+}
+.link:focus{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+}
+.imgcart{
+    width: 150px;
+    height: 200px;
+}
+.remove{
+    margin-left: 95%;
+}
+h4{
+    margin-left: 75%   
+}
